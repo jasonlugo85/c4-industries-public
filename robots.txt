@@ -9,3 +9,5 @@ Allow: /
 
 User-agent: GPTBot
 Allow: /
+
+Sitemap: https://jasonlugo85.github.io/c4-industries-public/sitemap.xml
