@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">Night Flight studio study</title><desc id="desc">Notebook-style aviation sketch with rough pencil lines and handwritten annotations.</desc>
+<defs>
+<pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#8ba1aa" stroke-width="1" opacity=".28"/></pattern>
+<filter id="pencil"><feTurbulence baseFrequency=".03" numOctaves="1" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+</defs>
+<rect width="900" height="900" fill="#ede9df"/><rect x="45" y="45" width="810" height="810" fill="url(#grid)"/>
+<g fill="none" stroke="#263941" stroke-linecap="round" filter="url(#pencil)">
+<path d="M110 520 760 395 548 485 690 570 475 520 365 660 337 535 110 520Z" stroke-width="8"/>
+<path d="M312 520 410 468M470 503 590 438M358 537 300 610" stroke-width="3" stroke-dasharray="9 10"/>
+<circle cx="760" cy="395" r="22" stroke-width="3"/>
+</g>
+<g font-family="Segoe Print,Comic Sans MS,cursive" fill="#7d5447">
+<text x="115" y="160" font-size="31">night-flight silhouette / study 03</text>
+<text x="590" y="358" font-size="24">nose line?</text><text x="170" y="682" font-size="23">keep it cinematic, not literal</text>
+</g>
+<path d="M585 365c40-26 83-20 113-6" fill="none" stroke="#7d5447" stroke-width="3"/>
+<path d="M525 700h230" stroke="#263941" stroke-width="3"/>
+<text x="525" y="744" font-family="Arial,sans-serif" font-size="20" letter-spacing="4" fill="#263941">C4 / AVIATION NOTEBOOK</text>
+</svg>

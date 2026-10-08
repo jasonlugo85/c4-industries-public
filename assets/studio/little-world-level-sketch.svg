@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">Little World level sketch</title><desc id="desc">Graph-paper game-world planning sketch with handwritten design notes.</desc>
+<defs>
+<pattern id="sq" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#91a69d" stroke-width="1" opacity=".3"/></pattern>
+<filter id="wobble"><feTurbulence baseFrequency=".02" numOctaves="2" seed="9" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="4"/></filter>
+</defs>
+<rect width="900" height="900" fill="#eef0e7"/><rect x="48" y="48" width="804" height="804" fill="url(#sq)" stroke="#46544e" stroke-width="3"/>
+<g fill="none" stroke="#304139" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobble)">
+<path d="M140 650 320 545 500 650 320 760Z"/><path d="M320 545v-185l175-100 175 100v190"/><path d="M320 360 500 465 670 360"/><path d="M500 465v185"/>
+<rect x="505" y="532" width="72" height="90" rx="4"/><circle cx="405" cy="455" r="34"/>
+</g>
+<g font-family="Segoe Print,Comic Sans MS,cursive" fill="#a45b4e">
+<text x="85" y="112" font-size="34">little world / level sketch</text><text x="595" y="690" font-size="22">door / goal?</text><text x="92" y="280" font-size="22">character starts here</text><text x="94" y="810" font-size="23">paper first -&gt; engine later</text>
+</g>
+<path d="M235 292q80 20 118 70M590 680q-45-30-88-30" fill="none" stroke="#a45b4e" stroke-width="3"/>
+</svg>

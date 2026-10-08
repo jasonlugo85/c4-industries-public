@@ -1,0 +1,12 @@
+# Operating-system files
+Thumbs.db
+.DS_Store
+
+# Local scratch files
+*.tmp
+*.bak
+
+# Local-only maintenance scripts
+repair_svg_assets.py
+update_refs.py
+validate_site.py

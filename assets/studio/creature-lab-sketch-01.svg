@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">Creature Lab sketch 01</title><desc id="desc">Rough ink character construction sketch with notes and deliberately imperfect lines.</desc>
+<defs><filter id="ink"><feTurbulence baseFrequency=".04" numOctaves="1" seed="17" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="5"/></filter></defs>
+<rect width="900" height="900" fill="#f0eadc"/>
+<g fill="none" stroke="#2a322e" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)">
+<circle cx="450" cy="425" r="188" stroke-width="8"/><ellipse cx="390" cy="400" rx="31" ry="39" stroke-width="7"/><ellipse cx="510" cy="400" rx="31" ry="39" stroke-width="7"/>
+<path d="M370 520q80 70 160 0" stroke-width="9"/><path d="M330 280 275 175 385 245M570 278l65-102-18 126" stroke-width="8"/>
+<path d="M285 520q-92 32-122 126M615 520q92 32 122 126" stroke-width="8"/><path d="M330 610q-45 100-35 158M570 610q45 100 35 158" stroke-width="8"/>
+</g>
+<g stroke="#b7b0a1" fill="none" stroke-width="2" stroke-dasharray="8 8"><circle cx="450" cy="425" r="230"/><path d="M450 150v555M225 425h450"/></g>
+<g font-family="Segoe Print,Comic Sans MS,cursive" fill="#9b534a">
+<text x="78" y="104" font-size="36">creature lab / sketch 01</text><text x="600" y="230" font-size="23">too cute?</text><text x="610" y="265" font-size="23">make weirder -&gt;</text>
+<text x="90" y="800" font-size="24">original shapes only / no borrowed characters</text>
+</g>
+<path d="M602 272q60 20 94 76" fill="none" stroke="#9b534a" stroke-width="3"/>
+</svg>

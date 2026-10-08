@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">Ordinary Memory studio study</title><desc id="desc">Paper-and-pencil layout study inspired by letters, memory pages, and handwritten keepsakes.</desc>
+<defs><filter id="jitter"><feTurbulence baseFrequency=".025" numOctaves="2" seed="4" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="3"/></filter></defs>
+<rect width="900" height="900" fill="#f4efdf"/>
+<g stroke="#b6c2bd" stroke-width="2" opacity=".55"><path d="M90 210h720M90 270h720M90 330h720M90 390h720M90 450h720M90 510h720M90 570h720M90 630h720M90 690h720"/></g>
+<path d="M155 115h270l-12 75H145Z" fill="#d5b183" opacity=".72" transform="rotate(-4 285 150)"/>
+<rect x="260" y="250" width="400" height="310" rx="5" fill="#fffdf5" stroke="#4b4a45" stroke-width="4" transform="rotate(3 460 405)" filter="url(#jitter)"/>
+<path d="M320 345h280M320 395h250M320 445h280M320 495h195" stroke="#9f9d93" stroke-width="5" stroke-linecap="round" filter="url(#jitter)"/>
+<path d="M192 688c42-55 102 4 55 58-24 26-55 43-55 43s-34-22-56-50c-36-48 15-94 56-51Z" fill="#bf6a60" filter="url(#jitter)"/>
+<text x="105" y="95" font-family="Segoe Print,Comic Sans MS,cursive" font-size="34" fill="#3e413e">ordinary memory / layout notes</text>
+<text x="105" y="818" font-family="Georgia,serif" font-size="28" fill="#3e413e">paper, handwriting space, room to breathe</text>
+</svg>

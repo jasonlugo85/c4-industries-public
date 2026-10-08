@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">Roots and City studio study</title><desc id="desc">Block-print inspired C4 studio study with Puerto Rican and New York visual references.</desc>
+<defs>
+<filter id="rough"><feTurbulence baseFrequency=".018" numOctaves="2" seed="7" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="8"/></filter>
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.1" fill="#173b52" opacity=".18"/></pattern>
+</defs>
+<rect width="900" height="900" fill="#f1e6d4"/>
+<rect x="54" y="50" width="792" height="800" fill="none" stroke="#1b211e" stroke-width="3"/>
+<rect x="70" y="65" width="760" height="770" fill="url(#dots)" opacity=".65"/>
+<path d="M104 662 294 510 438 584 602 430 797 650" fill="none" stroke="#173b52" stroke-width="24" stroke-linecap="square" filter="url(#rough)"/>
+<circle cx="210" cy="215" r="122" fill="#ef745a" filter="url(#rough)"/>
+<path d="M645 145c55 35 105 88 128 154-81 12-160-6-230-45 28-50 59-82 102-109Z" fill="#f0bf63" filter="url(#rough)"/>
+<g stroke="#1b211e" stroke-width="8" filter="url(#rough)"><path d="M158 710v-133M228 710V555M310 710V600M528 710V560M610 710V520M702 710V596"/></g>
+<text x="93" y="115" font-family="Arial Black,Arial,sans-serif" font-size="35" letter-spacing="5" fill="#1b211e">ROOTS / CITY STUDY</text>
+<text x="94" y="805" font-family="Georgia,serif" font-size="28" fill="#1b211e">block-print notes / C4 studio</text>
+<path d="M75 145h205M665 790h128" stroke="#1b211e" stroke-width="3"/>
+</svg>
