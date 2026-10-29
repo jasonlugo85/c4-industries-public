@@ -1,0 +1,35 @@
+{
+  "name": "NewYorkican Test",
+  "symbol": "NYKCTEST",
+  "description": "A Solana devnet test token celebrating New York and Puerto Rican culture, developed for the planned C4 Industries 26 LLC. Test tokens have no monetary value, company ownership, revenue, redemption, or investment rights.",
+  "image": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorkican/devnet/coqui-pr-ny-v2.png",
+  "external_url": "https://explorer.solana.com/address/31vuiJMRAZbcJhUUhZPhdSBVDxk3gXW6ghd6RNx51E95?cluster=devnet",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana devnet"
+    },
+    {
+      "trait_type": "Mascot",
+      "value": "Coqui"
+    },
+    {
+      "trait_type": "Project",
+      "value": "NewYorkican"
+    },
+    {
+      "trait_type": "Rights",
+      "value": "Development testing only"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorkican/devnet/coqui-pr-ny-v2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "artwork_method": "AI-generated original illustration, revised at the founder's request"
+  }
+}
