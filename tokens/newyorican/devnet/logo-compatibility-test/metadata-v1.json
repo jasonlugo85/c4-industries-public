@@ -1,0 +1,30 @@
+{
+  "name": "NewYorican Logo Test",
+  "symbol": "NYRLOGTEST",
+  "description": "Separate NewYorican devnet logo-compatibility test using SPL and Metaplex metadata. No monetary value; no ownership, revenue, redemption, or investment rights. This does not replace the original NewYorican Test prototype.",
+  "image": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorican/devnet/coqui-pr-ny-v2.png",
+  "external_url": "https://explorer.solana.com/address/GjAj35v5rpcrpu1RYxRQdJuA68MNNPuFhGakrCVPy3Uv?cluster=devnet",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana devnet"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Logo compatibility test"
+    },
+    {
+      "trait_type": "Financial rights",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorican/devnet/coqui-pr-ny-v2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
