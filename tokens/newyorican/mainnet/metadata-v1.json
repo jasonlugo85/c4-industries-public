@@ -2,7 +2,7 @@
   "name": "NewYorican",
   "symbol": "NYR",
   "description": "NewYorican is a community token celebrating the Puerto Rican community in New York and the connection between New York and Puerto Rico. The token provides no company ownership, revenue-sharing, dividend, redemption or guaranteed-return rights. Any future financial instrument would require separate terms and review.",
-  "image": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorican/devnet/coqui-pr-ny-v2.png",
+  "image": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorican/mainnet/newyorican-coqui-domino-v3.png",
   "external_url": "https://discord.gg/ygUP5hDtA",
   "seller_fee_basis_points": 0,
   "attributes": [
@@ -22,7 +22,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorican/devnet/coqui-pr-ny-v2.png",
+        "uri": "https://jasonlugo85.github.io/c4-industries-public/tokens/newyorican/mainnet/newyorican-coqui-domino-v3.png",
         "type": "image/png"
       }
     ],
